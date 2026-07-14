@@ -7,7 +7,8 @@ Sou graduando em **Sistemas de Informação** no IFMG e Técnico em Informática
 - 🐍 Em estudo constante de **Python** e seu ecossistema.
 - 🚀 Aprofundando conhecimentos em **JavaScript (Node.js e Express)** e **TypeScript**.
 - 📊 Experiência com bancos de dados relacionais (**MySQL**).
-- ⚛️ **Em breve:** Aprender **React.js** (esperando as férias da faculdade).
+- 📱Desenvolvimento mobile com **React Native**
+- ⚛️ Aprendendo **React.js** (Web).
 
 ---
 
@@ -23,9 +24,12 @@ Sou graduando em **Sistemas de Informação** no IFMG e Técnico em Informática
 
 ### 📂 Projetos em Destaque
 
-#### 🏅 [ProEsporte Sabará: Gestão Esportiva Municipal](https://github.com/LucasEpifanio1/Pro-Esporte)
-Projeto Interdisciplinar em desenvolvimento para o Bacharelado em Sistemas de Informação (IFMG).
-- **Tecnologias:** Node.js, Sequelize (ORM), MySQL e JavaScript (Frontend Responsivo).
+#### 🏅 [ProEsporte Sabará: Gestão Esportiva Municipal](https://github.com/Gu-Kleitin/Pro-Esporte)
+Inicialmente um Projeto Interdisciplinar em desenvolvimento para o Bacharelado em Sistemas de Informação (IFMG).
+- **Tecnologias:**
+  - **Back-end** Node.js, Sequelize (ORM), MySQL. 
+  - **Web** JavaScript, HTML e CSS (Frontend Responsivo) [será atualizado para utilizar react.js].
+  - **Mobile** React Native (Expo).
 - **Destaque:** Plataforma integrada para gestão de eventos municipais e um motor de treinos personalizado utilizando lógica de Distância Euclidiana/KNN para calistenia.
 
 #### 🛒 [E-commerce Full Stack](https://github.com/Gu-Kleitin/E-commerce)
