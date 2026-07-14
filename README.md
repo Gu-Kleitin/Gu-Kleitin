@@ -16,7 +16,7 @@ Sou graduando em **Sistemas de Informação** no IFMG e Técnico em Informática
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,ts,html,css,mysql,git,github,react,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,react,express,ts,html,css,mysql,git,github,react,vscode" />
   </a>
 </div>
 
